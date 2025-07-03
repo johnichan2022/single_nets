@@ -1,0 +1,15 @@
+0v7 Script on 03-July-2025, https://github.com/johnichan2022/single_nets
+single net:- 'JF6KVBVOODKVKZ8S',R253.1
+single net:- 'LAQDWRRMV4IOVFF9',R192.2
+single net:- 'VNXIV7YIGERC2HNQ',R195.2
+single net:- 'VNXIV7YIGERC2HNO',J21.8
+Typo error check for ambiguity between digit and letters (O,D,Q,0,o I, l,i,1,b,d,-,_)  listed below #####
+Typo group check  I l i 1
+Typo suspected at 'LAQDWRRMV4IOVFF9' 	 'LAQDWRRMV41OVFF9' 
+Typo suspected at 'LAQDWRRMV41OVFF9' 	 'LAQDWRRMV4IOVFF9' 
+Typo group check  O D Q 0 o
+Typo suspected at 'VNXIV7YIGERC2HNQ' 	 'VNXIV7YIGERC2HNO' 
+Typo suspected at 'VNXIV7YIGERC2HNO' 	 'VNXIV7YIGERC2HNQ' 
+Typo group check  b d
+Typo group check  - _
+0v7 Script on 03-July-2025, https://github.com/johnichan2022/single_nets
